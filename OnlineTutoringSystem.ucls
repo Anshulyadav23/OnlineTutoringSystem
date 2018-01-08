@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.onlinetutoringsystem.model.Faculty" project="OnlineTutoringSystem" 
+    file="/OnlineTutoringSystem/src/main/java/com/onlinetutoringsystem/model/Faculty.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="567" width="297" x="109" y="-221"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.onlinetutoringsystem.model.Credentials" project="OnlineTutoringSystem" 
+    file="/OnlineTutoringSystem/src/main/java/com/onlinetutoringsystem/model/Credentials.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="675" width="378" x="446" y="-221"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.onlinetutoringsystem.model.Enrollment" project="OnlineTutoringSystem" 
+    file="/OnlineTutoringSystem/src/main/java/com/onlinetutoringsystem/model/Enrollment.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="333" width="204" x="864" y="-221"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.onlinetutoringsystem.model.Course" project="OnlineTutoringSystem" 
+    file="/OnlineTutoringSystem/src/main/java/com/onlinetutoringsystem/model/Course.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="351" width="190" x="1108" y="-221"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.onlinetutoringsystem.model.Student" project="OnlineTutoringSystem" 
+    file="/OnlineTutoringSystem/src/main/java/com/onlinetutoringsystem/model/Student.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="513" width="268" x="1338" y="-221"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.onlinetutoringsystem.model.PracticeTest" project="OnlineTutoringSystem" 
+    file="/OnlineTutoringSystem/src/main/java/com/onlinetutoringsystem/model/PracticeTest.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="405" width="228" x="1646" y="-221"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.onlinetutoringsystem.model.StudentAnswers" project="OnlineTutoringSystem" 
+    file="/OnlineTutoringSystem/src/main/java/com/onlinetutoringsystem/model/StudentAnswers.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="459" width="266" x="1914" y="-221"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.onlinetutoringsystem.model.StudentPerformance" project="OnlineTutoringSystem" 
+    file="/OnlineTutoringSystem/src/main/java/com/onlinetutoringsystem/model/StudentPerformance.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="459" width="307" x="2220" y="-221"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.onlinetutoringsystem.model.Quiz" project="OnlineTutoringSystem" 
+    file="/OnlineTutoringSystem/src/main/java/com/onlinetutoringsystem/model/Quiz.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="567" width="288" x="2567" y="-221"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.onlinetutoringsystem.model.Tutorials" project="OnlineTutoringSystem" 
+    file="/OnlineTutoringSystem/src/main/java/com/onlinetutoringsystem/model/Tutorials.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="387" width="210" x="2895" y="-221"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.onlinetutoringsystem.model.SubjectEnrolled" project="OnlineTutoringSystem" 
+    file="/OnlineTutoringSystem/src/main/java/com/onlinetutoringsystem/model/SubjectEnrolled.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="351" width="212" x="3145" y="-221"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.onlinetutoringsystem.model.Feedback" project="OnlineTutoringSystem" 
+    file="/OnlineTutoringSystem/src/main/java/com/onlinetutoringsystem/model/Feedback.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="405" width="216" x="3397" y="-221"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.onlinetutoringsystem.model.TestTable" project="OnlineTutoringSystem" 
+    file="/OnlineTutoringSystem/src/main/java/com/onlinetutoringsystem/model/TestTable.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="729" width="391" x="3653" y="-221"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="com.onlinetutoringsystem.model.SubjectTutor" project="OnlineTutoringSystem" 
+    file="/OnlineTutoringSystem/src/main/java/com/onlinetutoringsystem/model/SubjectTutor.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="567" width="323" x="4084" y="-221"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
